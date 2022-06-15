@@ -1,0 +1,12 @@
+[submodule "basic-llvm-cmd"]
+	path = basic-llvm-cmd
+	url = git@github.com:refactormyself/basic-llvm-cmd.git
+[submodule "generate-llvm-ir"]
+	path = generate-llvm-ir
+	url = git@github.com:refactormyself/generate-llvm-ir.git
+[submodule "basic-llvm-lit-testing"]
+	path = basic-llvm-lit-testing
+	url = git@github.com:refactormyself/basic-llvm-lit-testing.git
+[submodule "basic-LLVM-passes"]
+	path = basic-LLVM-passes
+	url = git@github.com:refactormyself/basic-LLVM-passes.git
